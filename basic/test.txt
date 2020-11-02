@@ -1,4 +1,0 @@
-txt file
-test
-test1:
-test for git reset
